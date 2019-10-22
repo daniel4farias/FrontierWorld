@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1571023790",
+        "cacheTag": "1571723981",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,7 +50,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "FrontierWorld",
-            "last_rendertime": 1571019250,
+            "last_rendertime": 1571722745,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -77,7 +77,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "FrontierWorld - nether",
-            "last_rendertime": 1571018593,
+            "last_rendertime": 1571720667,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
